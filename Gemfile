@@ -11,15 +11,23 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+#gem "minima", "~> 2.0"
+
+# Include lanyon
+gem 'jekyll-theme-lanyon', '~> 1.1'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", "~> 209", group: :jekyll_plugins
+gem "github-pages", "~> 211", group: :jekyll_plugins
+
+#Upgrade nokogiri to fix security issue.
+gem "nokogiri", ">= 1.11.0.rc4"
+
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed", "~> 0.15.1"
+  gem "jekyll-sitemap", "~> 1.1"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
