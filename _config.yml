@@ -24,9 +24,9 @@ github_username:  chrisrytting
 
 # Build settings
 markdown: kramdown
-#remote_theme: poole/lanyon
+remote_theme: poole/lanyon
 #theme: minima
-theme: jekyll-theme-lanyon
+#theme: jekyll-theme-lanyon
 plugins:
   - jekyll-feed
   - jekyll-paginate
