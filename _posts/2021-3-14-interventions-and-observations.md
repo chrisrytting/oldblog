@@ -5,7 +5,7 @@ date:   2021-3-14 15:31:00 -0600
 categories: jekyll update
 ---
 
-I wrote this in response to the idea in the field of causality that you can't learn how the world works by observational data, that instead you need experimental data where interventions are performed. It became an essay about data awe, and about how I think that the causal ban on observational data and the causal embrace of interventional data is overly sure of itself.
+I wrote this in response to the idea in the field of causality that you can't learn how the world works by observational data, that instead you need experimental data where interventions are performed. It became a little thousand-word essay about data awe, and about how I think that the causal ban on observational data and the causal embrace of interventional data is overly sure of itself.
 
 If there were ever a century where people preferred datasets to the world itself, it would be the 21st. Which makes sense, in the context. Datasets are, of course, useful, and since they are brand new to the arc of history, they give us the same excitement as a toy that is both new __and__ interesting. 
 
